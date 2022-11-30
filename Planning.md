@@ -1,7 +1,7 @@
 # Planning
 
 ## Plane Design
-I need an aerodynamic design with as few components as necessary
+We need an aerodynamic design with as few components as necessary
 
 
 
